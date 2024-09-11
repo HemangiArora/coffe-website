@@ -1,0 +1,332 @@
+.second_last_coffee{
+    background-color: #1c292d;
+    width:100%;
+    height:580px;
+    margin-top: 30px;
+}
+.sl_coffee{
+    width:600px;
+    margin-top:0px;
+    position:relative;
+    z-index: 0;
+}
+
+.s2_coffee{   
+    width:600px;
+    margin-top:0px;
+    position:relative;
+    z-index: 0;
+}
+
+.menu1.flt-left{
+    float: left !important;
+    background-color: #f9e5c8 !important;
+}
+.last_coffee_icon{
+    text-align: center;
+    align-items: center;
+}
+
+
+
+.menu1{
+    background-color:#0c1b1f;
+    height:600px;
+    width:800px;
+    margin-top: 60px;
+    float:right;
+    position: relative;
+    z-index: 5;
+}
+
+.menu1_line{
+    height: 447px;
+    width: 6px;
+    background-color: #8f6747;
+    margin-top:61px;
+    margin-left:121px;
+}
+
+.menu1_coffee{
+  color: #84674a;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+  margin-top: -408px;
+  margin-left: 160px;
+  font-stretch: ultra-condensed;
+  padding-bottom: 20px;
+}
+
+.menu1_text{
+    color: #84674a;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -65px;
+}
+
+.text-style-1{
+    font-size: 35px;
+    font-weight: bold;
+    margin-left: 170px; 
+    font-stretch:ultra-condensed;
+}
+.text-style-2{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.text-style-3{
+    font-size: 25px;
+    font-weight: bold;
+}
+.text-style-4{
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 0px;  
+}
+.text-style-5{
+    font-size: 18px;
+    margin-left: 170px;
+}
+
+/*SPECIAL COFFEE*/
+
+.special_coffee{
+    background-color: #1c292d;
+    width:100%;
+    height:580px;
+    padding-top: 200px;
+}
+.special_coffee_img{
+    float:right;
+    margin-top: 0px;
+    width:630px;
+    height:600px;
+    position: relative;
+    z-index: 0;
+}
+
+.special_coffee_div{
+    background-color:#f9e5c8;
+    width:55%;
+    height:420px;
+    margin-top: 93px;
+    position: relative;
+    z-index: 1;
+}
+
+.menu2_coffee{
+    color: #84674a;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: -370px;
+    margin-left: 60px;
+    font-stretch: ultra-condensed;
+    position: absolute;
+    z-index: 5;
+}
+
+.menu2_text{
+    color: #84674a;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -15px;
+    position: relative;
+    z-index: 5;
+}
+
+.text-style-6{
+    font-size: 28px;
+    font-weight: bold;
+    margin-left: 62px; 
+    font-stretch:ultra-condensed;
+    margin-top: -301px;
+    position: absolute;
+    z-index: 5;
+}
+
+.text-style-7{
+    font-size: 35px;
+    font-weight: bold;
+    margin-left: 246px;
+    margin-top: -308px;
+    position: absolute;
+    z-index: 5;
+}
+
+.text-style-8{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 430px;
+    margin-top: -295px;
+    position: absolute;
+    z-index: 5;
+}
+.text-style-9{
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 441px;
+    margin-top: -313px; 
+    position: absolute;
+    z-index: 5; 
+}
+
+.text-style-10{
+    font-size: 18px;
+    margin-left: 64px;
+    padding-bottom: 55px;
+    margin-top: -280px;  
+}
+
+.text-style-11{
+    font-size: 28px;
+    font-weight: bold;
+    margin-left: 62px; 
+    font-stretch:ultra-condensed;
+    margin-top: -6px;
+    position: absolute;
+    z-index: 5;
+}
+
+.text-style-12{
+    font-size: 35px;
+    font-weight: bold;
+    margin-left: 246px;
+    margin-top: -13px;
+    position: absolute;
+    z-index: 5;
+}
+
+.text-style-13{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 430px;
+    margin-top: 0px;
+    position: absolute;
+    z-index: 5;
+}
+.text-style-14{
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 441px;
+    margin-top: -16px; 
+    position: absolute;
+    z-index: 5; 
+}
+
+.text-style-15{
+    font-size: 18px;
+    margin-left: 64px;
+    padding-bottom: 55px;
+    margin-top: 16px;  
+}
+
+.text-style-16{
+    font-size: 28px;
+    font-weight: bold;
+    margin-left: 62px; 
+    font-stretch:ultra-condensed;
+    margin-top: -6px;
+    position: absolute;
+    z-index: 5;
+}
+
+.text-style-17{
+    font-size: 35px;
+    font-weight: bold;
+    margin-left: 246px;
+    margin-top: -13px;
+    position: absolute;
+    z-index: 5;
+}
+
+.text-style-18{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 430px;
+    margin-top: 0px;
+    position: absolute;
+    z-index: 5;
+}
+.text-style-19{
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 441px;
+    margin-top: -16px; 
+    position: absolute;
+    z-index: 5; 
+}
+
+.text-style-20{
+    font-size: 18px;
+    margin-left: 64px;
+    padding-bottom: 55px;
+    margin-top: 16px;  
+}
+
+.menu2_line{
+    height: 370px;
+    width: 4px;
+    background-color: #84674a;
+    margin-top:-440px;
+    margin-left:593px; 
+    position:absolute;
+    z-index: 5;
+} 
+
+/*last coffee icon*/
+
+.last_coffee_icon{
+    width:100%;
+    height:400px;
+    background-color:#1c292d;
+    margin-top: 50px;
+}
+
+.last_icon{
+    margin-top:178px;
+}
+
+.dark_color{
+    width: 100%;
+    height:30px;
+    background-color:#0c1b1f;  
+}
+
+
+@media only screen and (max-width: 600px) {
+    
+
+    .s2_coffee{
+        margin-top: 100px;        /*changes*/
+       /* position: relative; */
+       }
+    .menu1,.sl_coffee,.text-style-1{
+        width: 100% !important;
+    }
+    
+    .menu1_line{
+        margin-left: 0 !important;
+        margin-top: 0 !important;
+        
+    }
+    .menu1_coffee{
+        margin-left: 10px !important;
+        font-size: 60px !important;
+    }
+    .text-style-1{
+        font-size: 20px !important;
+        margin-left: 10px !important;
+    }
+    .text-style-5{
+        margin-left: 10px !important;
+    padding-bottom: 0 !important;
+    }
+    .menu1_text{
+        margin-top: 0 !important;
+    }
+    .menu1{
+        height: auto !important;
+    }
+    
+}

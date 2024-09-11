@@ -1,0 +1,12 @@
+.MuiBox-root{
+    padding: 10px !important;
+}
+h2 svg{
+    float: right;
+}
+.MuiFormControl-root,.pad20px>button{
+    width: 100%;
+}
+.pad20px{
+    padding: 20px;
+}

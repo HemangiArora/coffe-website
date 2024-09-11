@@ -1,0 +1,98 @@
+.toolbar{
+    background-color: #0c1b1f;
+    height:50px;
+    margin: auto;
+    display:flex;
+}
+.nav-bar .toolbar{
+    width: 1130px;
+    margin: 60px auto;
+}
+.nav-bar {
+    background-color: #0c1b1f;
+}
+.toolbar_coffee{
+   margin: auto;
+    height:25px; 
+}
+
+.toolbar_text ul li {
+    list-style: none;
+    font-family: Montserrat ;
+    display: inline-block;
+    margin-left: 60px;
+    margin-top:0px;
+}
+.toolbar ul{
+    padding-bottom: 0;
+}
+ul.desktop-only,.social_media ul{
+    margin: revert;
+}
+.offcanvas-body{
+    background-color: #1c292d;
+}
+.home{
+    color:white;
+    font-weight: bold;
+    font-size:12px;
+    text-decoration: none;
+    
+}
+
+.services_product_contact{
+    color:white;
+    font-size:12px;
+    text-decoration: none;
+    font-weight: lighter;
+}
+
+.social_media ul li{
+    list-style: none;
+    display: inline;
+    
+}
+.instagram{
+    margin-top: 0px;
+    margin-left:120px;
+    height:18px;
+    
+}
+
+.facebook{
+    margin-left:6px;
+    height:18px;
+}
+
+.twitter{
+    margin-left:6px;
+    height:18px; 
+}
+
+.whatsapp{
+    margin-left:6px;
+    height:18px; 
+}
+@media only screen and (max-width: 600px) {
+    .desktop-only{
+        display: none;
+    }
+    .toolbar_text{
+        margin: auto;
+    }
+    .nav-bar .toolbar{
+        width: 100%;
+        margin: 10px auto;
+    }
+    .mobile-only{
+        margin-bottom:0;
+    }
+}
+@media only screen and (min-width: 600px) {
+    .mobile-only{
+        display: none;
+    }
+}
+.MuiDrawer-paper{
+    background-color: rgb(12, 27, 31) !important;
+}
